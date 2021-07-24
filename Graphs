@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T19:40:56.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="mkFzwd9RbYlQmlEd0NV8" version="14.9.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-07-24T19:46:51.637Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="Vjk-zlfhQW_YxGLZdNeo" version="14.9.2" type="github" pages="8">
   <diagram id="DWtTUDA1i9bT-y47IB3q" name="MST Tree leaves">
     <mxGraphModel dx="1298" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -780,7 +780,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Fk1OZMa1xj5S4S9xJbQe" name=" Semi-connected">
-    <mxGraphModel dx="2597" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2846" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="w3dILlSux0b3_uYbiD0P-0" />
         <mxCell id="w3dILlSux0b3_uYbiD0P-1" parent="w3dILlSux0b3_uYbiD0P-0" />
@@ -1396,12 +1396,12 @@
         <mxCell id="Yzr3e80JxWR3PrNMNjoc-1" parent="Yzr3e80JxWR3PrNMNjoc-0" />
         <UserObject label="(0,7,4)" lucidchartObjectId="Bo2Q8dqrvGpW" id="Yzr3e80JxWR3PrNMNjoc-2">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="519" y="639" width="41" height="41" as="geometry" />
+            <mxGeometry x="465.11" y="642" width="41" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="(7,0,4)" lucidchartObjectId="Qo2Q6u589~Qk" id="Yzr3e80JxWR3PrNMNjoc-3">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="300" y="690" width="41" height="41" as="geometry" />
+            <mxGeometry x="246.11" y="693" width="41" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="6o2QTpFpl_ji" id="Yzr3e80JxWR3PrNMNjoc-4">
@@ -1413,7 +1413,7 @@
         </UserObject>
         <UserObject label="(7,4,0)" lucidchartObjectId="-o2QR_2d0~YX" id="Yzr3e80JxWR3PrNMNjoc-5">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="75" y="540" width="41" height="41" as="geometry" />
+            <mxGeometry x="21.11" y="543" width="41" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="jp2Q1PL6959I" id="Yzr3e80JxWR3PrNMNjoc-6">
@@ -1425,7 +1425,7 @@
         </UserObject>
         <UserObject label="(4,7,0)" lucidchartObjectId="np2QWPi0y.sZ" id="Yzr3e80JxWR3PrNMNjoc-7">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="373" y="405" width="41" height="41" as="geometry" />
+            <mxGeometry x="319.11" y="408" width="41" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="Bp2QH.fiwEkK" id="Yzr3e80JxWR3PrNMNjoc-8">
@@ -1437,7 +1437,7 @@
         </UserObject>
         <UserObject label="(10,1,0)" lucidchartObjectId="Ep2QHv-UYyZQ" id="Yzr3e80JxWR3PrNMNjoc-9">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="130" y="380" width="41" height="41" as="geometry" />
+            <mxGeometry x="76.11" y="383" width="41" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="Pp2QWkv6SSni" id="Yzr3e80JxWR3PrNMNjoc-10">
@@ -1456,7 +1456,7 @@
         </UserObject>
         <UserObject label="(10,0,1)" lucidchartObjectId="4p2Qhzjmq.TF" id="Yzr3e80JxWR3PrNMNjoc-12">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="230" y="318" width="36" height="36" as="geometry" />
+            <mxGeometry x="176.11" y="321" width="36" height="36" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="eq2QcUw9oy_T" id="Yzr3e80JxWR3PrNMNjoc-13">
@@ -1468,7 +1468,7 @@
         </UserObject>
         <UserObject label="(3,7,1)" lucidchartObjectId="gq2QwribtEVh" id="Yzr3e80JxWR3PrNMNjoc-14">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="373" y="315" width="41" height="41" as="geometry" />
+            <mxGeometry x="319.11" y="318" width="41" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="tq2QlVvCUs4w" id="Yzr3e80JxWR3PrNMNjoc-15">
@@ -1480,7 +1480,7 @@
         </UserObject>
         <UserObject label="(3,4,4)" lucidchartObjectId="vq2QEnP8gcCJ" id="Yzr3e80JxWR3PrNMNjoc-16">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="519" y="315" width="41" height="41" as="geometry" />
+            <mxGeometry x="465.11" y="318" width="41" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="Gq2QehP0-iV7" id="Yzr3e80JxWR3PrNMNjoc-17">
@@ -1499,7 +1499,7 @@
         </UserObject>
         <UserObject label="(4,3,4)" lucidchartObjectId="Nq2QvtzP2JjT" id="Yzr3e80JxWR3PrNMNjoc-19">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="471" y="510" width="41" height="41" as="geometry" />
+            <mxGeometry x="417.11" y="513" width="41" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="gr2QjavRpHk7" id="Yzr3e80JxWR3PrNMNjoc-20">
@@ -1532,7 +1532,7 @@
         </UserObject>
         <UserObject label="(6,1,4)" lucidchartObjectId="pv2Q8NN~on3L" id="Yzr3e80JxWR3PrNMNjoc-24">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="236" y="435" width="41" height="41" as="geometry" />
+            <mxGeometry x="182.11" y="438" width="41" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="Ev2QzqY5-_ll" id="Yzr3e80JxWR3PrNMNjoc-25">
@@ -1544,7 +1544,7 @@
         </UserObject>
         <UserObject label="(6,5,0)" lucidchartObjectId="7v2QKciLgzk2" id="Yzr3e80JxWR3PrNMNjoc-26">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="227" y="540" width="41" height="41" as="geometry" />
+            <mxGeometry x="173.11" y="543" width="41" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="gw2QbPWIdbWe" id="Yzr3e80JxWR3PrNMNjoc-27">
@@ -1584,7 +1584,7 @@
         </UserObject>
         <UserObject label="(2,5,4)" lucidchartObjectId="ZB2QQ-6o6Jw9" id="Yzr3e80JxWR3PrNMNjoc-32">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=10;fontColor=#ffffff;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#0c7cba;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="195" y="720" width="41" height="41" as="geometry" />
+            <mxGeometry x="141.11" y="723" width="41" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="iC2QPV_.82xk" id="Yzr3e80JxWR3PrNMNjoc-33">
@@ -1631,12 +1631,12 @@
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;DPV 3.8 Pouring Water&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;We have three containers whose sizes are 10 pints, 7 pints, and 4 pints respectively. The 7-pint and 4-pint containers start out full of water, but the 10-pint container is initially empty. We are allowed one type of operation: pouring the contents of one container into another, stopping only when the source container is empty or the destination container is full. We want to know if there is a sequence of pouring that leaves exactly 2 pints in the 7- or 4-pint container. &#xa;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(a) Model this as a graph problem: give a precise definition of the graph involved and state the specific question about this graph that needs to be answered. &#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(b) What algorithm should be applied to solve the problem?&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="qJ2QeSHkmBQL" id="Yzr3e80JxWR3PrNMNjoc-39">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="75" y="15" width="1164" height="161" as="geometry" />
+            <mxGeometry x="20" y="15" width="1070" height="215" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;Solution&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(a) Each vertex in the graph represents the state of all three containers. An edge represents a transition from one state to another. For example the initial state of all the containers is (0,7,4) respectively and if we pour 4 pints from container 3 into container 1 then the state is now (4,7,0) this gives us two vertices and an edge between the two. We repeat this process until all possible states are represented.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(b) Run explore on the graph starting at (0,7,4) and if we find a vertex that has the number 2 in any position then return true, otherwise return false. &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="1P2Q~ENpRbQ1" id="Yzr3e80JxWR3PrNMNjoc-40">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="Yzr3e80JxWR3PrNMNjoc-1">
-            <mxGeometry x="600" y="332" width="690" height="187" as="geometry" />
+            <mxGeometry x="530" y="350" width="550" height="210" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="J~hR.n_Xq_MT" id="Yzr3e80JxWR3PrNMNjoc-41">
@@ -1644,7 +1644,7 @@
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
               <mxPoint y="240" as="sourcePoint" />
-              <mxPoint x="1320" y="240" as="targetPoint" />
+              <mxPoint x="1099" y="240" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -1658,7 +1658,7 @@
         <mxCell id="zHFG3UmbjN382VP65tol-1" parent="zHFG3UmbjN382VP65tol-0" />
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;DPV 4.13&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;You are given a set of cities, along with the pattern of highways between them, in the form of an undirected graph G= (V,E). Each stretch of highway e &lt;/span&gt;∈ E connects two of the cities, and you know its length in miles, le. You want to get from city S to city t. There&#39;s one problem: your car can only hold enough gas to cover L miles. There are gas stations in each city, but not between cities. Therefore, you can only take a route if every one of its edges has length le ≤ L. &#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(a) Given the limitation on your car&#39;s fuel tank capacity, show how to determine in linear time whether there is a feasible route from s to t. &#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(b) You are now planning to buy a new car, and you want to know the minimum fuel tank capacity that is need to travel from s to t. Given an O(|V| + |E| log |V|) algorithm to determine this.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="jW4Qb-jJ_OwC" id="zHFG3UmbjN382VP65tol-2">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="zHFG3UmbjN382VP65tol-1">
-            <mxGeometry x="30" y="30" width="1245" height="210" as="geometry" />
+            <mxGeometry x="30" y="30" width="1050" height="210" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;Solution&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(a) Create G&#39; from G by removing every edge whose length is &amp;gt; L. Run Explore on G&#39; starting at &lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-style: italic;&quot;&gt;s &lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;if visited(t) is true then the answer is yes.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="g.4QFxxCkZyB" id="zHFG3UmbjN382VP65tol-3">
@@ -1681,7 +1681,7 @@
         <mxCell id="CQrXJbh02KARTRh_pnoy-1" parent="CQrXJbh02KARTRh_pnoy-0" />
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;DPV 3.15&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;The police department in the city of Computopia has made all streets one-way. The mayor contends that there is still a way to drive legally from any intersection in the city to any other intersection, but the opposition is not convinced. A computer program is needed to determine whether the mayor is right. However, the city elections are comping up soon, and there is just enough time to run a linear-time algorithm.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(a) Formulate this problem graph-theoretically, and explain why it can indeed be solved in linear time.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(b) Suppose it now turns out that the mayor&#39;s original claim is false. She next claims something weaker: if you start driving from town hall, navigating one-way streets, then no matter where you reach, there is always a way to drive legally back to the town hall. Formulate this weaker property as a graph-theory problem, an carefully show how it too can be checked in linear time.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="Yw5Q02feK8iL" id="CQrXJbh02KARTRh_pnoy-2">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="CQrXJbh02KARTRh_pnoy-1">
-            <mxGeometry x="30" y="-945" width="1260" height="225" as="geometry" />
+            <mxGeometry x="30" y="-945" width="1040" height="225" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -1699,16 +1699,16 @@
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;Solution&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;The max flow of this graph is 13 demonstrated by the min cut that seperates S, C, and F from all other verticies on the residual graph. The min cut, counts only the residual edges: (A,S), (B,S), (B,C), (T,F) = 6 + 1 + 2 + 4 = 13&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="sO5Q~aY.-L.9" id="30QVeBR2E53cGy3ZVxlm-3">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="30QVeBR2E53cGy3ZVxlm-1">
-            <mxGeometry x="598" y="795" width="675" height="88" as="geometry" />
+            <mxGeometry x="415.46" y="722" width="675" height="88" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;Augmented paths&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;4: (S,C), (C,F), (&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;text-decoration: underline;&quot;&gt;F,T&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;)&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;4: (S,A), (&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;text-decoration: underline;&quot;&gt;A,D&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;), (D,G),(G,T)&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;1: (&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;text-decoration: underline;&quot;&gt;S,B&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;), (B,E), (E,G), (G,T)&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;2: (S,C), (&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;text-decoration: underline;&quot;&gt;C,B&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;), (B,E), (E,G), (G,T)&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;2: (S,A), (&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;text-decoration: underline;&quot;&gt;A,B&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;), (B,E), (E,G), (G, T)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="Ev6Q6KBN9UuA" id="30QVeBR2E53cGy3ZVxlm-4">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="30QVeBR2E53cGy3ZVxlm-1">
-            <mxGeometry x="180" y="795" width="285" height="128" as="geometry" />
+            <mxGeometry x="45" y="713" width="285" height="128" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="30QVeBR2E53cGy3ZVxlm-5" value="" style="group;dropTarget=0;" vertex="1" parent="30QVeBR2E53cGy3ZVxlm-1">
-          <mxGeometry x="800.4646850723358" y="495" width="195" height="270" as="geometry" />
+          <mxGeometry x="655.4646850723358" y="422" width="195" height="270" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="HBgRNiYisPnZ" id="30QVeBR2E53cGy3ZVxlm-6">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#c92d39;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=6 5;strokeWidth=1.5;rounded=0;startArrow=none;;endArrow=none;;" edge="1" parent="30QVeBR2E53cGy3ZVxlm-5">
@@ -1738,7 +1738,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="30QVeBR2E53cGy3ZVxlm-9" value="" style="group;dropTarget=0;" vertex="1" parent="30QVeBR2E53cGy3ZVxlm-1">
-          <mxGeometry x="740" y="525" width="300" height="203" as="geometry" />
+          <mxGeometry x="595" y="452" width="300" height="203" as="geometry" />
         </mxCell>
         <UserObject label="A" lucidchartObjectId="HBgR_TiiskOO" id="30QVeBR2E53cGy3ZVxlm-10">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=3.8;verticalAlign=middle;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="30QVeBR2E53cGy3ZVxlm-9">
@@ -1996,7 +1996,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="30QVeBR2E53cGy3ZVxlm-61" value="" style="group;dropTarget=0;" vertex="1" parent="30QVeBR2E53cGy3ZVxlm-1">
-          <mxGeometry x="165" y="525" width="300" height="203" as="geometry" />
+          <mxGeometry x="30" y="483" width="300" height="203" as="geometry" />
         </mxCell>
         <UserObject label="A" lucidchartObjectId="i15QZc~tsWIE" id="30QVeBR2E53cGy3ZVxlm-62">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=3.8;verticalAlign=middle;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="30QVeBR2E53cGy3ZVxlm-61">
@@ -2193,9 +2193,9 @@
         <mxCell id="30QVeBR2E53cGy3ZVxlm-100" value="1/1" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=13.3;" vertex="1" parent="30QVeBR2E53cGy3ZVxlm-99">
           <mxGeometry x="-0.3116958859933403" relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;Gf (residual graph)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="-LgRLCntn9bO" id="30QVeBR2E53cGy3ZVxlm-101">
+        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;G&lt;sup&gt;f&lt;/sup&gt; (residual graph)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="-LgRLCntn9bO" id="30QVeBR2E53cGy3ZVxlm-101">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="30QVeBR2E53cGy3ZVxlm-1">
-            <mxGeometry x="810" y="435" width="180" height="45" as="geometry" />
+            <mxGeometry x="430" y="438" width="180" height="45" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="30QVeBR2E53cGy3ZVxlm-102" value="" style="group;dropTarget=0;" vertex="1" parent="30QVeBR2E53cGy3ZVxlm-1">
@@ -2398,7 +2398,7 @@
         </mxCell>
         <UserObject label="Max Flow Network " lucidchartObjectId="-NgRkrNHxYgS" id="30QVeBR2E53cGy3ZVxlm-142">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="30QVeBR2E53cGy3ZVxlm-1">
-            <mxGeometry x="255" y="449" width="180" height="48" as="geometry" />
+            <mxGeometry x="97.5" y="425" width="180" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="POgR2BYFPXC_" id="30QVeBR2E53cGy3ZVxlm-143">
@@ -2406,7 +2406,7 @@
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
               <mxPoint y="420" as="sourcePoint" />
-              <mxPoint x="1320" y="420" as="targetPoint" />
+              <mxPoint x="1099" y="420" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -2420,16 +2420,16 @@
         <mxCell id="Q4dLqpTp-Upndgmu89Is-1" parent="Q4dLqpTp-Upndgmu89Is-0" />
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;DPV 7.17&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;Consider the following network&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(a) Find the maximum flow f and a minimum cut.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(b) Draw the residual graph Gf (along with its edge capacities). In this residual network, mark the vertices reachable from S and the vertices from which T is reachable.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(c) An edge of a network is called a bottleneck edge if increasing its capacity results in an increase in the maximum flow. List all bottleneck edges in the above network.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(d) Give a very simple example (containing at most four nodes) of a network which has no bottleneck edges.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(e) Give an efficient algorithm to identify all bottleneck edges in a network. (Hint: start by running the usual network flow algorithm and, and then examine the residual graph.)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="DS8Q-fw0omtW" id="Q4dLqpTp-Upndgmu89Is-2">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-1">
-            <mxGeometry x="15" y="30" width="1290" height="180" as="geometry" />
+            <mxGeometry x="13" y="10" width="1075" height="220" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;Paths&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;4: (S,A), (&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;text-decoration: underline;&quot;&gt;A,C&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;), (C,T)&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;2: (S,A), (&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;text-decoration: underline;&quot;&gt;A,D&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;), (D,T)&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;2: (S,B), (&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;text-decoration: underline;&quot;&gt;B,C&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;), (C,T)&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;3: (S,B), (&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;text-decoration: underline;&quot;&gt;B,D&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;), (D,T)&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;Max Flow: 11&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="j18QAyZt4t8s" id="Q4dLqpTp-Upndgmu89Is-3">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-1">
-            <mxGeometry x="1095" y="239" width="180" height="136" as="geometry" />
+            <mxGeometry x="890" y="406" width="180" height="136" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Q4dLqpTp-Upndgmu89Is-4" value="" style="group;dropTarget=0;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-1">
-          <mxGeometry x="750" y="630" width="495" height="240" as="geometry" />
+          <mxGeometry x="590" y="575" width="495" height="240" as="geometry" />
         </mxCell>
         <UserObject label="S" lucidchartObjectId="U98QwCT8PzXR" id="Q4dLqpTp-Upndgmu89Is-5">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-4">
@@ -2575,7 +2575,7 @@
           <mxGeometry x="-0.26299935981864575" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q4dLqpTp-Upndgmu89Is-33" value="" style="group;dropTarget=0;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-1">
-          <mxGeometry x="570" y="240" width="495" height="240" as="geometry" />
+          <mxGeometry x="470" y="240" width="495" height="240" as="geometry" />
         </mxCell>
         <UserObject label="S" lucidchartObjectId="9Y8QFmpVl7.g" id="Q4dLqpTp-Upndgmu89Is-34">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-33">
@@ -2768,7 +2768,7 @@
           <mxGeometry x="-0.26299935981864575" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q4dLqpTp-Upndgmu89Is-72" value="" style="group;dropTarget=0;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-1">
-          <mxGeometry x="60" y="240" width="450" height="240" as="geometry" />
+          <mxGeometry x="10" y="240" width="450" height="240" as="geometry" />
         </mxCell>
         <UserObject label="S" lucidchartObjectId="hT8Qk65Hk_Ny" id="Q4dLqpTp-Upndgmu89Is-73">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-72">
@@ -2882,28 +2882,28 @@
         </mxCell>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;Min Cut2:&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt; 4 +2 + 5 = 11&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="re9Qtdm8ndp9" id="Q4dLqpTp-Upndgmu89Is-95">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-1">
-            <mxGeometry x="1110" y="600" width="180" height="48" as="geometry" />
+            <mxGeometry x="878" y="542" width="210" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;Min Cut1:&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt; 4 +2 + 2 + 3 = 11&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="lg9QV63n5t5~" id="Q4dLqpTp-Upndgmu89Is-96">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-1">
-            <mxGeometry x="705" y="585" width="180" height="48" as="geometry" />
+            <mxGeometry x="580" y="530" width="215" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;Solution&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(c) (A,C) and (B,C) are bottleneck edges because if their capacities were increased it would increase the size of the max flow. This is true because (C,T) has the ability to send 3 more units and nodes A and B have the potential to send 1 unit each. &#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(d) A simple diamond graph with equal capacities on all edges will have no bottleneck edges.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;(e)&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;Find a maximum flow f on G&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;Run Explore from s on the residual graph Gf. Let S be the set of vertices reachable from s in Gf.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;Run Explore from t in the reverse graph of Gf; note the set T are those vertices which can reach t in Gf&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;For each uv &lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;∈ E(G), output uv as a bottleneck edge if v ∈ S and u ∈ T.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="sl9QHLw_WAOs" id="Q4dLqpTp-Upndgmu89Is-97">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-1">
-            <mxGeometry x="30" y="675" width="645" height="328" as="geometry" />
+            <mxGeometry x="13" y="491" width="527" height="279" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Q4dLqpTp-Upndgmu89Is-98" value="" style="group;dropTarget=0;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-1">
-          <mxGeometry x="930" y="555" width="60" height="405" as="geometry" />
+          <mxGeometry x="770" y="560" width="60" height="280" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="O~8Q-DD6Aa15" id="Q4dLqpTp-Upndgmu89Is-99">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#c92d39;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=1 2;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=none;;" edge="1" parent="Q4dLqpTp-Upndgmu89Is-98">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
               <mxPoint x="60" as="sourcePoint" />
-              <mxPoint x="60" y="405" as="targetPoint" />
+              <mxPoint x="60" y="280" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -2923,20 +2923,20 @@
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#c92d39;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=1 2;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=none;;" edge="1" parent="Q4dLqpTp-Upndgmu89Is-98">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
-              <mxPoint x="60" y="405" as="sourcePoint" />
-              <mxPoint y="405" as="targetPoint" />
+              <mxPoint x="60" y="280" as="sourcePoint" />
+              <mxPoint y="280" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
         <mxCell id="Q4dLqpTp-Upndgmu89Is-103" value="" style="group;dropTarget=0;" vertex="1" parent="Q4dLqpTp-Upndgmu89Is-1">
-          <mxGeometry x="1020" y="570" width="240" height="240" as="geometry" />
+          <mxGeometry x="860" y="515" width="230" height="235" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="qd9Qd6EL~cj6" id="Q4dLqpTp-Upndgmu89Is-104">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#c92d39;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=1 2;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=none;;" edge="1" parent="Q4dLqpTp-Upndgmu89Is-103">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
               <mxPoint as="sourcePoint" />
-              <mxPoint y="150" as="targetPoint" />
+              <mxPoint y="146.875" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -2944,8 +2944,8 @@
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#c92d39;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=1 2;strokeWidth=1.5;rounded=0;startArrow=none;;endArrow=none;;" edge="1" parent="Q4dLqpTp-Upndgmu89Is-103">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
-              <mxPoint y="150" as="sourcePoint" />
-              <mxPoint x="240" y="240" as="targetPoint" />
+              <mxPoint y="146.875" as="sourcePoint" />
+              <mxPoint x="230" y="235" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
