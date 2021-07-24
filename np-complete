@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T21:36:18.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="9UGvg2Yz8dkZe8PL6-aN" version="14.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-24T21:45:40.744Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="pSClZTDDCtT3jPtpGD3r" version="14.9.2" type="github" pages="3">
   <diagram id="e6Iy7oycJwD63E7tIJSc" name="Hitting Set">
-    <mxGraphModel dx="1298" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="940" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,6 +270,16 @@
         <UserObject label="&lt;div style=&quot;display: flex ; justify-content: flex-start ; align-items: baseline ; line-height: 1.25 ; margin-top: -2px ; font-size: 0px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;A FLOWER is a graph on &lt;i&gt;k&lt;/i&gt; + 4 vertices such that &lt;i&gt;k&lt;/i&gt; vertices form a clique and the other 4 form a star connected to the clique by exactly one edge.&lt;br&gt;Input: G = (V, E) and k &amp;gt; 0&lt;br&gt;Output: A subset of k vertices that constitute a FLOWER graph&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="lYRVU8fzSbu5" id="0_0eeiulhVHci0KrjfjU-23">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;align=left;" vertex="1" parent="hqCrchrSlZUssY8mLbq7-1">
             <mxGeometry x="10" y="10" width="886" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Reduce a known NP-Hard Problem to the Proposed NP-Hard Problem in Polynomial Time" lucidchartObjectId="R2RV-F8qQrpR" id="4HCn5E1_JNmPAt7Rzjnz-0">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;fontStyle=1;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="hqCrchrSlZUssY8mLbq7-1">
+            <mxGeometry x="204" y="290" width="720" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: flex-start ; align-items: baseline ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16.7px&quot;&gt;The known NP-Hard CLIQUE problem can be reduced to the FLOWER problem in polynomial&amp;nbsp;time as follows:&lt;br&gt;Given the Graph G = (V,E) and a desired clique size of &lt;i&gt;k &lt;/i&gt;we construct G&#39; by looping through each vertex in G and connecting a new 4 vertex star. We set k = k for the FLOWER problem. Execute the FLOWER problem and if there exists a flower graph of k + 4 then remove the vertices and edges that make up the star and return the clique of size k.&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" lucidchartObjectId="lYRVU8fzSbu5" id="4HCn5E1_JNmPAt7Rzjnz-1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;align=left;" vertex="1" parent="hqCrchrSlZUssY8mLbq7-1">
+            <mxGeometry x="204" y="326" width="886" height="94" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
