@@ -1,0 +1,204 @@
+<mxfile host="app.diagrams.net" modified="2021-07-24T19:15:34.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="9xQZgB435NH349l8Strk" version="14.9.2" type="github">
+  <diagram id="e6Iy7oycJwD63E7tIJSc" name="Page-1">
+    <mxGraphModel dx="1298" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="" lucidchartObjectId="gVRVVYXpdmvD" id="qvDwaZudp-QULSuVsLoJ-1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="19" y="126" width="261" height="254" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;Input&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;b = 2&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;Family = {&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&amp;nbsp; {1,&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;,3},&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&amp;nbsp; {1,3,&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;4&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;},&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&amp;nbsp; {1,&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;4&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;,5},&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&amp;nbsp; {1,&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;,5},&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&amp;nbsp; {&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;,3},&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&amp;nbsp; {&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;4&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;,5}&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;     }&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="IMRVg3T.bwn5" id="qvDwaZudp-QULSuVsLoJ-2">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=13;spacing=0;verticalAlign=top;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="28" y="189" width="92" height="208" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#222222;font-weight: bold;&quot;&gt;DPV 8.9 Hitting Set&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#222222;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#222222;&quot;&gt;In the HITTING SET problem , we are given a family of sets {S1, S2, ..., Sn} and a budget &lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#222222;font-style: italic;&quot;&gt;b&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#222222;&quot;&gt;, and we whish to find a set &lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#222222;font-style: italic;&quot;&gt;H&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#222222;&quot;&gt; of size &lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#222222;&quot;&gt;≤ &lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#222222;font-style: italic;&quot;&gt;b&lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#222222;&quot;&gt;  which intersects every Si, if such an &lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#222222;font-style: italic;&quot;&gt;H&lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#222222;&quot;&gt; exists. In other words, we want H &lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#222222;&quot;&gt;∩ Si ≠ ∅ for all &lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#222222;font-style: italic;&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#222222;&quot;&gt;. Show that HITTING SET is NP-complete.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="ZDRVWtzBSpG0" id="qvDwaZudp-QULSuVsLoJ-3">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="19" y="21" width="825" height="91" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Example Problem &amp; Solution" lucidchartObjectId="jMRVIUDxhY~D" id="qvDwaZudp-QULSuVsLoJ-4">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;fontStyle=1;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="28" y="130" width="242" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;font-weight: bold;&quot;&gt;Solution&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;H = {2,4}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="FPRVHtOWfPA8" id="qvDwaZudp-QULSuVsLoJ-5">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="120" y="183" width="76" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Solutions to the Proposed NP-Hard Porblem Can be Validated in Polynomial Time" lucidchartObjectId="HXRV2Sks4NjW" id="qvDwaZudp-QULSuVsLoJ-6">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;fontStyle=1;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;align=left;" parent="1" vertex="1">
+            <mxGeometry x="283" y="126" width="730" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; line-height: 1.25 ; margin-top: -2px ; font-size: 0px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;Given the inputs for the HITTING SET problem S as the family of sets and b as the budget and the solution H as a set that is a hitting set we can validate in O(n) time that the size of H is less than or equal to b. For every set in S we can validate in O(n*S&lt;sub&gt;n&lt;/sub&gt;) time that every set S&lt;sub&gt;i&lt;/sub&gt; intersects with &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-style: italic&quot;&gt;H.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="lYRVU8fzSbu5" id="qvDwaZudp-QULSuVsLoJ-7">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="281" y="152" width="809" height="79" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Reduce a known NP-Hard Problem to the Proposed NP-Hard Problem in Polynomial Time" lucidchartObjectId="R2RV-F8qQrpR" id="qvDwaZudp-QULSuVsLoJ-8">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;fontStyle=1;align=center;spacing=3.8;verticalAlign=middle;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="281" y="225" width="720" height="36" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;We can reduce the known NP-Hard problem of VERTEX COVER to the HITTING SET problem in polynomial time as follows: Given the graph G = (V,E) we set the S&lt;sub&gt;family&lt;/sub&gt;, or the Family of Sets, to G(E) and we set the budget &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-style: italic&quot;&gt;b&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt; for HITTING SET to &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-style: italic&quot;&gt;b&lt;sub&gt;vc&lt;/sub&gt; , &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;or the budget from the vertex cover input. A valid vertex cover of G will be the list of vertices V&#39; that touch every edge, which means for every &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-style: italic&quot;&gt;(u,v)&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt; in G either &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-style: italic&quot;&gt;u&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt; or &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-style: italic&quot;&gt;v&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt; will be in the vertex cover, likewise every vertex in the hitting set will intersect with each edge in the family of Sets for the HITTING SET problem. There will exist a valid hitting set &lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-style: italic&quot;&gt;H&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt; if and only if there is a valid vertex cover.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="E.RVSztiLjJ0" id="qvDwaZudp-QULSuVsLoJ-9">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="281" y="261" width="799" height="155" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;Conclusion&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;We have proven that the HITTING SET problem is NP-Hard because we have shown that solutions to the HITTING SET problem can be validated in polynomial time of O(nS&lt;sub&gt;n&lt;/sub&gt;) and that the known NP-Hard problem Vertex Cover can be transformed to the HITTING SET problem in polynomial time of O(E) such that a solution to the HITTING SET problem will exist if and only if there is a solution to the vertex cover problem.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="sQSV5IL719~b" id="qvDwaZudp-QULSuVsLoJ-10">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="17" y="756" width="1075" height="91" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qvDwaZudp-QULSuVsLoJ-11" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 13.3px ; text-align: left&quot;&gt;b = 3&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="924" y="616" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qvDwaZudp-QULSuVsLoJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qvDwaZudp-QULSuVsLoJ-14" target="qvDwaZudp-QULSuVsLoJ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvDwaZudp-QULSuVsLoJ-13" value="b&lt;sub&gt;vc&lt;/sub&gt; = b" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qvDwaZudp-QULSuVsLoJ-12" vertex="1" connectable="0">
+          <mxGeometry x="0.2121" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvDwaZudp-QULSuVsLoJ-14" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 13.3px ; text-align: left&quot;&gt;b = 3&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="676" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qvDwaZudp-QULSuVsLoJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qvDwaZudp-QULSuVsLoJ-17" target="qvDwaZudp-QULSuVsLoJ-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="614" y="641" />
+              <mxPoint x="614" y="496" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvDwaZudp-QULSuVsLoJ-16" value="G(E) = S&lt;sub&gt;family&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qvDwaZudp-QULSuVsLoJ-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.0217" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333 ; font-weight: bold&quot;&gt;Inputs: G, b&lt;/span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;G = { &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&amp;nbsp; V: {1,2,3,4,5}, &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&amp;nbsp; E:{1,2}, {1,3}, {2,3}, {2,5}, {3,4}, {4,5}&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;}&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="OrSVcAUaxa4V" id="qvDwaZudp-QULSuVsLoJ-17">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="355" y="601" width="230" height="79" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 13.3px ; color: rgb(51 , 51 , 51)&quot;&gt;S&lt;/span&gt;&lt;sub&gt;family&lt;/sub&gt;&lt;span style=&quot;font-size: 13.3px ; color: rgb(51 , 51 , 51)&quot;&gt; = {&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&amp;nbsp; {1,&lt;/span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333 ; font-weight: bold&quot;&gt;2&lt;/span&gt;}, &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&amp;nbsp; {1,&lt;/span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333 ; font-weight: bold&quot;&gt;3&lt;/span&gt;}, &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&amp;nbsp; {&lt;/span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333 ; font-weight: bold&quot;&gt;2,3&lt;/span&gt;}, &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&amp;nbsp; {&lt;/span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333 ; font-weight: bold&quot;&gt;2&lt;/span&gt;,5}, &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&amp;nbsp; {&lt;/span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333 ; font-weight: bold&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333 ; font-weight: bold&quot;&gt;4&lt;/span&gt;}, &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;&amp;nbsp; {&lt;/span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333 ; font-weight: bold&quot;&gt;4&lt;/span&gt;,5}&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #333333&quot;&gt;    }&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: flex-start ; text-align: left ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="VCSVfOrzFF5t" id="qvDwaZudp-QULSuVsLoJ-18">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="924" y="486" width="103" height="115" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Vertex Cover" lucidchartObjectId="RESVhwQXawv5" id="qvDwaZudp-QULSuVsLoJ-19">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;fontStyle=1;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="323" y="417" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Hitting Set" lucidchartObjectId="1ESVfCLjYvUz" id="qvDwaZudp-QULSuVsLoJ-20">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;fontStyle=1;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="833" y="418" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#333333;font-weight: bold;&quot;&gt;Solution&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:13.3px;color:#333333;&quot;&gt;VC = {2,3,4}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="tFSVWA~Z2Qie" id="qvDwaZudp-QULSuVsLoJ-21">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="353" y="716" width="135" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#333333;font-weight: bold;&quot;&gt;Solution&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:13.3px;color:#333333;&quot;&gt;H = {2,3,4}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="4ISVO_7BTbC~" id="qvDwaZudp-QULSuVsLoJ-22">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=top;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="848" y="716" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="-NSVmmjzpaFa" id="qvDwaZudp-QULSuVsLoJ-23">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;;endArrow=block;endFill=1;;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;" parent="1" edge="1">
+            <mxGeometry x="263" y="441" width="100" height="100" as="geometry">
+              <Array as="points" />
+              <mxPoint x="488" y="737.5" as="sourcePoint" />
+              <mxPoint x="848" y="737.5" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="qvDwaZudp-QULSuVsLoJ-24" value="if and only if" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=13.3;" parent="qvDwaZudp-QULSuVsLoJ-23" vertex="1">
+          <mxGeometry x="-0.14666666666666595" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvDwaZudp-QULSuVsLoJ-25" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="350" y="475" width="123" height="117" as="geometry" />
+        </mxCell>
+        <UserObject label="1" lucidchartObjectId="KpSVVQaiDAPM" id="qvDwaZudp-QULSuVsLoJ-26">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="qvDwaZudp-QULSuVsLoJ-25" vertex="1">
+            <mxGeometry x="3" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="2" lucidchartObjectId="bqSVITQojvB8" id="qvDwaZudp-QULSuVsLoJ-27">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="qvDwaZudp-QULSuVsLoJ-25" vertex="1">
+            <mxGeometry x="93" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="3" lucidchartObjectId="eqSVC4xhV~.W" id="qvDwaZudp-QULSuVsLoJ-28">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="qvDwaZudp-QULSuVsLoJ-25" vertex="1">
+            <mxGeometry x="48" y="45" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="4" lucidchartObjectId="iqSVeUYaRI0I" id="qvDwaZudp-QULSuVsLoJ-29">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="qvDwaZudp-QULSuVsLoJ-25" vertex="1">
+            <mxGeometry x="3" y="87" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="5" lucidchartObjectId="lqSVCU6hE5JX" id="qvDwaZudp-QULSuVsLoJ-30">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="qvDwaZudp-QULSuVsLoJ-25" vertex="1">
+            <mxGeometry x="93" y="87" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="G" lucidchartObjectId="zvSVHyfJlWsB" id="qvDwaZudp-QULSuVsLoJ-31">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="qvDwaZudp-QULSuVsLoJ-25" vertex="1">
+            <mxGeometry y="39.5" width="20" height="41" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="1qSVEkBb57r3" id="qvDwaZudp-QULSuVsLoJ-32">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;;endArrow=none;;exitX=1.038;exitY=0.5;exitPerimeter=0;entryX=-0.038;entryY=0.5;entryPerimeter=0;" parent="qvDwaZudp-QULSuVsLoJ-25" source="qvDwaZudp-QULSuVsLoJ-26" target="qvDwaZudp-QULSuVsLoJ-27" edge="1">
+            <mxGeometry x="-87" y="-34" width="100" height="100" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="_qSVmJa~KgRh" id="qvDwaZudp-QULSuVsLoJ-33">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;;endArrow=none;;exitX=0.084;exitY=0.834;exitPerimeter=0;entryX=0.834;entryY=0.083;entryPerimeter=0;" parent="qvDwaZudp-QULSuVsLoJ-25" source="qvDwaZudp-QULSuVsLoJ-27" target="qvDwaZudp-QULSuVsLoJ-28" edge="1">
+            <mxGeometry x="-87" y="-34" width="100" height="100" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="grSVwjBt-DT6" id="qvDwaZudp-QULSuVsLoJ-34">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;;endArrow=none;;exitX=0.152;exitY=0.907;exitPerimeter=0;entryX=0.944;entryY=0.199;entryPerimeter=0;" parent="qvDwaZudp-QULSuVsLoJ-25" source="qvDwaZudp-QULSuVsLoJ-28" target="qvDwaZudp-QULSuVsLoJ-29" edge="1">
+            <mxGeometry x="-87" y="-34" width="100" height="100" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="nrSVA4_gxGZL" id="qvDwaZudp-QULSuVsLoJ-35">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;;endArrow=none;;exitX=0.869;exitY=0.887;exitPerimeter=0;entryX=0.111;entryY=0.129;entryPerimeter=0;" parent="qvDwaZudp-QULSuVsLoJ-25" source="qvDwaZudp-QULSuVsLoJ-26" target="qvDwaZudp-QULSuVsLoJ-28" edge="1">
+            <mxGeometry x="-87" y="-34" width="100" height="100" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="trSVo-2ZX65W" id="qvDwaZudp-QULSuVsLoJ-36">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;;endArrow=none;;exitX=0.5;exitY=1.038;exitPerimeter=0;entryX=0.5;entryY=-0.038;entryPerimeter=0;" parent="qvDwaZudp-QULSuVsLoJ-25" source="qvDwaZudp-QULSuVsLoJ-27" target="qvDwaZudp-QULSuVsLoJ-30" edge="1">
+            <mxGeometry x="-87" y="-34" width="100" height="100" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="vrSVJNqsxwfW" id="qvDwaZudp-QULSuVsLoJ-37">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;;endArrow=none;;exitX=-0.038;exitY=0.5;exitPerimeter=0;entryX=1.038;entryY=0.5;entryPerimeter=0;" parent="qvDwaZudp-QULSuVsLoJ-25" source="qvDwaZudp-QULSuVsLoJ-30" target="qvDwaZudp-QULSuVsLoJ-29" edge="1">
+            <mxGeometry x="-87" y="-34" width="100" height="100" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
